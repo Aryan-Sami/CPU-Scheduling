@@ -1,6 +1,5 @@
 """
-CPU Scheduler Simulator — Process Execution Visualizer
-=======================================================
+
 Shows HOW the CPU manages process execution:
   - Process lifecycle: New → Ready → Running → Terminated
   - Live Ready Queue
