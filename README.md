@@ -24,7 +24,7 @@ python cpu_scheduler.py
 - Execution log with timestamps
 - Final statistics table
 
- Video presentation link: 
+ Video presentation link: https://youtu.be/Ia77Wde2Xfc
 
 By
 Aryan Sami
